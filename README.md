@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Md Bunty Ansari
-- 👀 I’m interested in Learning new skills.
-- 🌱 I’m currently pursuing M.Tech in Computer Science and Data Processing from IIT Kharagpur.
+- 👀 I’m interested in learning new skills.
+- 🌱 I did M.Tech in Computer Science and Data Processing from IIT Kharagpur.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail : 786irfan1995@gmail.com Mobile : 8400169240
+- 📫 How to reach me: Email: 786irfan1995@gmail.com Mobile: 8400169240
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
